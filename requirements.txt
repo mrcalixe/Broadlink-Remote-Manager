@@ -1,0 +1,9 @@
+autopep8==1.5.7
+broadlink==0.17.0
+cffi==1.14.5
+cryptography==3.4.7
+numpy==1.21.0
+pycodestyle==2.7.0
+pycparser==2.20
+simple-term-menu==1.2.1
+toml==0.10.2
